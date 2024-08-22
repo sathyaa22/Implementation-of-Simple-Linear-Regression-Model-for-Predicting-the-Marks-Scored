@@ -10,12 +10,19 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 
 Step 1: Start the program.
+
 Step 2: Gather historical data of students i.e., hours studied and corresponding marks scored.
+
 Step 3: Clean the data by handling any missing values and split it into two sets: a training set and a test set.
+
 Step 4: Choose the independent variable (hours studied) and the dependent variable (marks scored) as the target.
+
 Step 5: Use the training data to fit a simple linear regression model, establishing the relationship between the feature and the target.
+
 Step 6: Use the trained model to predict marks for new data (hours studied by a new student).
+
 Step 7: Compare the predicted marks with actual marks using the test set to evaluate the model's accuracy.
+
 step 8: Stop the program.
 
 
@@ -87,14 +94,23 @@ print('RMSE = ',rmse)
 ## Output:
 
 ![Screenshot 2024-08-22 193427](https://github.com/user-attachments/assets/879f49da-3cc1-463b-a7bb-08464bfa3114)
+
 ![Screenshot 2024-08-22 193455](https://github.com/user-attachments/assets/3bbfa022-04ca-4651-aadb-a3e40fdd9d31)
+
 ![Screenshot 2024-08-22 193545](https://github.com/user-attachments/assets/f2d3f0df-76f1-4cdf-80ba-80ad538945bb)
+
 ![Screenshot 2024-08-22 193609](https://github.com/user-attachments/assets/29722a89-7e72-44d6-8d37-71a99fc16662)
+
 ![Screenshot 2024-08-22 193656](https://github.com/user-attachments/assets/56e296ee-b0bb-4f9b-a6d9-4f880ace5e9d)
+
 ![Screenshot 2024-08-22 193715](https://github.com/user-attachments/assets/53e0ed7e-504b-40d2-b74d-14f812e8b764)
+
 ![Screenshot 2024-08-22 194103](https://github.com/user-attachments/assets/de5e4a15-fdcc-441a-a340-18c4101c72da)
+
 ![Screenshot 2024-08-22 194247](https://github.com/user-attachments/assets/eb62ce4c-13d8-4c3e-aa30-c3bbf146d2e5)
+
 ![Screenshot 2024-08-22 194526](https://github.com/user-attachments/assets/0a16e2a6-437d-42b6-a6d4-e8093e5d64cc)
+
 
 
 ## Result:
