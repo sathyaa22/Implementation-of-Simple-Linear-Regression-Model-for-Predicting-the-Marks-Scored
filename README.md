@@ -101,13 +101,23 @@ print('RMSE = ',rmse)
 
 ![Screenshot 2024-08-22 193609](https://github.com/user-attachments/assets/29722a89-7e72-44d6-8d37-71a99fc16662)
 
+### Training set:
+
 ![Screenshot 2024-08-22 193656](https://github.com/user-attachments/assets/56e296ee-b0bb-4f9b-a6d9-4f880ace5e9d)
+
+### Test set:
 
 ![Screenshot 2024-08-22 193715](https://github.com/user-attachments/assets/53e0ed7e-504b-40d2-b74d-14f812e8b764)
 
+### MSE:
+
 ![Screenshot 2024-08-22 194103](https://github.com/user-attachments/assets/de5e4a15-fdcc-441a-a340-18c4101c72da)
 
+### MAE:
+
 ![Screenshot 2024-08-22 194247](https://github.com/user-attachments/assets/eb62ce4c-13d8-4c3e-aa30-c3bbf146d2e5)
+
+### RMSE:
 
 ![Screenshot 2024-08-22 194526](https://github.com/user-attachments/assets/0a16e2a6-437d-42b6-a6d4-e8093e5d64cc)
 
